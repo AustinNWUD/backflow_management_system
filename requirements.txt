@@ -1,0 +1,6 @@
+arcgis
+dask[dataframe]
+pandas
+docx-mailmerge
+Office365-REST-Python-Client
+python-dotenv
